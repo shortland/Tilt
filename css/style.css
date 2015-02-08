@@ -1,0 +1,10 @@
+#picture
+{
+	border: 1px solid black;
+	position: fixed;
+	top: -200px;
+	left: -200px;
+	width: 200%;
+	height: 200%;
+	background-repeat: no-repeat;
+}

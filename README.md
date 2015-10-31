@@ -2,7 +2,7 @@
 Tilt - Uses the gyroscope to move elements in Javascript!
 
 <b>Probably need to be on a mobile device to view demo.</b><br/>
-<b>DEMO: http://ilankleiman.com/demo/tilt/index.html</b>
+<b>DEMO: http://ilankleiman.com/projects/tilt/index.html</b>
 
 Tilt your device to see the picture move from left to right, up and down!
 <br/> I did a pretty bad job explaining what it does; think about iOS 7 & 8; how the background image moves a little when you tilt your phone to the side.
